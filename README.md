@@ -1,2 +1,3 @@
 # ecommerce-website
-ecommerce website for buy day to day iteams and provide smooth user experience
+ecommerce website is used to buy day to day iteams and provide smooth user experience
+in the market
